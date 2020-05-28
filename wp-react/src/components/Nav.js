@@ -1,7 +1,7 @@
 import React from 'react'
-const Home = ()=>{
+const Nav = ()=>{
     (<div>
-        Home
+        Nav
     </div>)
 }
-export default Home;
+export default Nav;

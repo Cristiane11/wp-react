@@ -1,7 +1,7 @@
 import React from 'react'
-const Home = ()=>{
+const Project = ()=>{
     (<div>
-        Home
+        Project
     </div>)
 }
-export default Home;
+export default Project;
