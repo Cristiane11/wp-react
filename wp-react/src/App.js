@@ -1,20 +1,21 @@
 import React from 'react';
-import logo from './logo.svg';
-import { Router } from "@reach/router";
 import './App.css';
+import { Router } from "@reach/router";
 import About from './components/About';
 import Project from './components/Projects';
+import Home from './components/Home';
+import Nav from './components/Nav';
+import Route2 from './components/Route2';
 
 function App() {
   return (
-    <div className="App">
-      <router>
-      <Home path ='/'/>
-      <About path ='/about'/>
-      <Nav path ='/nav'/>
-      <Project path ='/project'/>
-      </router>
-    </div>
+    
+      <div>
+        <Home/>
+      </div>
+      
+      
+   
   );
 }
 
