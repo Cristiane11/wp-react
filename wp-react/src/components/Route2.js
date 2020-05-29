@@ -10,9 +10,9 @@ function Route2() {
     
       <router>
       <Home path ='/'/>
-      <About path ='/about'/>
-      <Nav path ='/nav'/>
-      <Project path ='/project'/>
+      <About path ='./About'/>
+      <Nav path ='./Nav'/>
+      <Project path ='./Project'/>
       </router>
    
   );
