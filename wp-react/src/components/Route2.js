@@ -7,12 +7,10 @@ import Nav from './Nav';
 
 function Route2() {
   return (
-    
       <router>
-      <Home path ='/'/>
-      <About path ='./About'/>
-      <Nav path ='./Nav'/>
-      <Project path ='./Project'/>
+      <Home path='/'/>
+      <About path='./About'/>
+      <Project path='./Project'/>
       </router>
    
   );

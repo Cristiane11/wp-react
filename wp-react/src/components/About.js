@@ -1,8 +1,9 @@
 import React from 'react'
+import Nav from './Nav';
 
 const About = ()=>
-    (
-    <div> 
+    (<div>
+      <Nav/> 
       <p>This is About</p>
     </div>
     )
