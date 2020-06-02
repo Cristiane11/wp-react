@@ -9,7 +9,7 @@ class Actions extends Component {
     render() {
         return (
             <div>
-                Code goes here
+                <p>State</p>
             </div>
         )
     }
