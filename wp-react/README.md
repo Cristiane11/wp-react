@@ -78,3 +78,22 @@ https://github.com/imranhsayed/react-workshop
 
 site
 https://codeytek.com/
+https://reactjs.org/docs/state-and-lifecycle.html
+host
+https://www.heroku.com/pricing
+pay to learn
+https://www.wyzant.com/match/tutor/87475178?search_id=3e948131-d60d-4b03-82fd-697d455f6d4f
+
+scrimba
+math for front end
+https://scrimba.com/p/pzKyeuP/czbbMGhZ
+
+react router
+https://reach.tech/router
+
+yt
+https://www.youtube.com/watch?v=udOf5JXs-SU&list=PLD8nQCAhR3tQ7KXnvIk_v_SLK-Fb2y_k_&index=11
+props and state
+https://www.techiediaries.com/react-spread-operator-props-setstate/
+
+https://reactjs.org/tutorial/tutorial.html#why-immutability-is-important
